@@ -15,3 +15,9 @@ pip install chatterbot-corpus
 or
 
 pip install -r requirements.txt
+
+
+
+
+
+![cb](https://user-images.githubusercontent.com/104973230/203018022-9c90a335-39ba-4865-aac0-4341c0517c25.png)
